@@ -1,0 +1,10 @@
+package com.recommendation;
+
+public class FBLoginDetails {
+
+	static String clientId="1697536080482482";
+	static String clientSecret="6d2a6f4d70f03584f39f1981656411dc";
+	static String tempToken="CAAYH5msSELIBALJflhC0M6Yhp9QC9Dh3ezixDij4R7LsR1W9KWZCTiLwZAJ9aaMl8xaNP7N1vh1goBkRrrnpaiqGftZACcX8wopZCZA05HXBDoqBJ3ywIUsZCCGmKDrvajP2qGbIZByQYdWbVoEQ2CqLkqqui7TXrbhBcoiwJDm3RcyZB7bZC3kGI1NljZBFAr6O1FcxQGACP8vAZDZD";
+	static String accessToken="CAAYH5msSELIBAKk8WZAfL7l8sivsBtvZBvJnk3VNxlSZC9ZASV5RLHEEyNFex5dqTsx3FxMeHTIldQms09HIBD7FfWsBPdM2WrKTJBVnX9KY8Mtz2WW1iMY99b7Y7qZCImEYrMy3Oxa1ZBEBrJWRHt9NFZBycwcGib4Dl3rFFrcymd1ZCA5JuZB5jHzCJXM0Ot2obNoZC48WONTwZDZD&expires=5184000";
+	
+}
